@@ -30,6 +30,3 @@ python -m src.clustering --mode medium --input_csv data/lyrics/tracks.csv --out_
 python -m src.clustering --mode hard --input_csv data/lyrics/tracks.csv --out_dir results/hard --beta 4.0
 ```
 
-
-- Works on CPU (no GPU required).
-- If your CSV is large, use `--max_items` to cap processing.
