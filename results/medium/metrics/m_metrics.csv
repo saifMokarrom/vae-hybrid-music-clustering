@@ -1,0 +1,4 @@
+method,k,silhouette,calinski_harabasz,davies_bouldin,ARI,NMI
+kmeans,10,0.057303291,150.0536501,3.110255502,,
+agglo,10,0.022576026,90.21967585,3.462479258,,
+dbscan,10,,,,,
